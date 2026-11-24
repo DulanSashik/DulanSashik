@@ -21,8 +21,8 @@ I'm an electronics and embedded systems engineer in Sri Lanka. I design 4-layer 
 
 ### Publications
 
-- D. Sashik et al., *Low-Cost, High-Precision Vibration Analysis: Enhancing SHM and Seismic Data Acquisition Systems*, IEEE TENSYMP 2025.
-- D. Pandithage, D. Sashik et al., *Advanced 3-Axis Shake Table System for Comprehensive Earthquake Simulation and Structural Dynamics Research*, 2025.
+- D. Sashik, A. Iddamalgoda, N. Manchanayake, R. Prasanna and P. K. W. Abeygunawardhana, [*Low-Cost, High-Precision Vibration Analysis: Enhancing SHM and Seismic Data Acquisition Systems*](https://doi.org/10.1109/TENSYMP63728.2025.11145000), 2025 IEEE Region 10 Symposium (TENSYMP).
+- A. Iddamalgoda, D. Sashik, A. Jayakody, N. Manchanayake, R. Prasanna and P. K. W. Abeygunawardhana, *Advanced Three-Axis Shake Table System for Comprehensive Earthquake Simulation and Structural Dynamics Research*, IEEE TENCON 2025.
 
 ### Contact
 
