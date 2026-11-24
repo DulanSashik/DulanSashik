@@ -6,7 +6,7 @@ I'm an electronics and embedded systems engineer in Sri Lanka. I design 4-layer 
   - REACT: controller boards and CAN charger firmware for a battery-swapping station, an Innovate UK-funded project converting tuk-tuks to electric.
   - System controllers and gateways for grid-connected batteries and rooftop solar.
 - **Before:** Research Assistant at SLIIT. I designed a low-cost hybrid MEMS–geophone earthquake sensor with CRISiSLab (Massey University, NZ). It recorded a real Mw 5.4 earthquake with peak acceleration within ~5 % of a commercial reference.
-- **Education:** BSc in Physical Science (Physics & Electronics), University of Kelaniya.
+- **Education:** MSc in Computer Science (in progress), University of Sri Jayewardenepura; BSc in Physical Science (Physics & Electronics), University of Kelaniya.
 
 ### Featured project
 
@@ -26,4 +26,5 @@ I'm an electronics and embedded systems engineer in Sri Lanka. I design 4-layer 
 
 ### Contact
 
-Email: dulanshashik9@gmail.com
+- Email: dulansashik@gmail.com
+- LinkedIn: [linkedin.com/in/dulan-sashik](https://www.linkedin.com/in/dulan-sashik/)
